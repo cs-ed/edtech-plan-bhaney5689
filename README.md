@@ -7,7 +7,7 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Describe your course including the name, description, and grade level
+Scientific Programming, an elective course for grades 10-12, allows students to incorporate essential computer science and programming skills into the laboratory in order to become more competitive in the scientific marketplace.
 
 ### Situation
 
