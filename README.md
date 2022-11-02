@@ -11,6 +11,8 @@ Scientific Programming, an elective course for grades 10-12, allows students to 
 
 ### Situation
 
+Scientific Programming will align with Computer Science Standards for Public Schools.  This elective course will be for a class size of 25.  Student demographics of note include 75% latino and 50% economoically 
+
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?
