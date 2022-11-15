@@ -18,13 +18,37 @@ Scientific Programming will align with Computer Science Standards for Public Sch
 
 ### Software Specifications
 
-For the operating system, we will use Microsoft Windows, as the school currently has this software available for students.  The learning management system (LMS) will be Canvas, as this is LMS used currently in other classes at the high school.  The web browser will be Google Chrome.  For antivirus software, Chromebooks will have Windows Defender installed.  Microsoft Office 365, which is already on the Chromebooks, will be used for the document processing software.  Archive utilities software will be WinZip.  Visual Studio Code will be installed on all computers.  Microsoft Developer will be the developer software.  Online/web services used will include scratch.mit.edu, github.com, and w3schools.com.  Windows has a built-in SSH through Windows Terminal.
-installed as well as any online services.
+For the operating system, we will use Microsoft Windows, as the school currently has this software available for students.  The learning management system (LMS) will be Canvas, as this is LMS used currently in other classes at the high school.  The web browser will be Google Chrome.  For antivirus software, Chromebooks will have Windows Defender installed.  Microsoft Office 365, which is already on the Chromebooks, will be used for the document processing software.  Archive utilities software will be WinZip.  Visual Studio Code will be installed on all computers.  Microsoft Developer will be the developer software.  Online/web services used will include scratch.mit.edu, github.com, and w3schools.com.  Windows has a built-in SSH through Windows Terminal.  Microsoft Family Safety will be used to limit access to school-appropriate websites.
+
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+Instructor Laptop
+Surface Pro 7
+Processor	11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.42 GHz
+Installed RAM	8.00 GB (7.84 GB usable)
+System type	64-bit operating system, x64-based processor
+Pen and touch	Pen and touch support with 10 touch points
+Wifi Internet Connection
+
+Windows Specifications
+Edition	Windows 10 Pro
+Version	21H2
+
+Student Laptop
+Samsung Galaxy Pro
+14.0" LED
+Intel Celeron Processer N4500
+1.1 GHz Processing Speed
+4 GB Internal Memory
+32 GB Storage Capacity
+42.3 Wh
+Wifi Internet Connection
+
+Projector
+Epson ELPLP78
+HDMI connection for Display from Teacher Laptop to Projector Screen
+
 
 ### Application
 
