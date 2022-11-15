@@ -7,18 +7,18 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Scientific Programming, an elective course for grades 10-12, allows students to incorporate essential computer science and programming skills into the laboratory in order to become more competitive in the scientific marketplace.
+Scientific Programming, a two-semester elective course for grades 10-12, allows students to incorporate essential computer science and programming skills into the laboratory in order to become more competitive in the scientific marketplace.  Students will begin by learning fundamental computer science concepts, while using Scratch, before being introduced to commonly-used programming languages.  The class will then focus on MATLAB as the primary language for scientific research.
 
 ### Situation
 
-Scientific Programming will align with Computer Science Standards for Public Schools.  This elective course will be for a class size of 25, and for grades 10-12.  Student demographics of note include 75% latino and 50% economically disadvantaged.  Scaffolds and differentiation will be present for students with learning disabilities and/or EL qualifications.  This Title I high school is in a rural town, meaning technical accessibility issues may be present; however, all students will have access to a Chromebook.  
+Scientific Programming will align with Computer Science Standards for Public Schools.  This elective course will be for a class size of 25, and for grades 10-12.  Student demographics of note include 75% latino and 50% economically disadvantaged.  Scaffolds and differentiation will be present for students with learning disabilities and/or EL qualifications.  This Title I high school is in a rural town, meaning technical accessibility issues may be present; however, all students will have access to a Chromebook.  Class period lengths are about 50 minutes, 5 days a week.
 
 
 ## Plan
 
 ### Software Specifications
 
-For the operating system, we will use Microsoft Windows, as the school currently has this software available for students.  The learning management system (LMS) will be Canvas, as this is LMS used currently in other classes at the high school.  The web browser will be Google Chrome.  For antivirus software, Chromebooks will have Windows Defender installed.  Microsoft Office 365, which is already on the Chromebooks, will be used for the document processing software.  Archive utilities software will be WinZip.  Visual Studio Code will be installed on all computers.  Microsoft Developer will be the developer software.  Online/web services used will include scratch.mit.edu, github.com, and w3schools.com.  Windows has a built-in SSH through Windows Terminal.  Microsoft Family Safety will be used to limit access to school-appropriate websites.
+For the operating system, we will use Microsoft Windows, as the school currently has this software available for students.  The learning management system (LMS) will be Canvas, as this is LMS used currently in other classes at the high school.  The web browser will be Google Chrome.  For antivirus software, Chromebooks will have Windows Defender installed.  Microsoft Office 365, which is already on the Chromebooks, will be used for the document processing software.  Archive utilities software will be WinZip.  Visual Studio Code will be installed on all computers, so that students can use MATLAB.  Microsoft Developer will be the developer software.  Online/web services used will include scratch.mit.edu, github.com, and w3schools.com.  Windows has a built-in SSH through Windows Terminal.  Microsoft Family Safety will be used to limit access to school-appropriate websites.  Students also will have access to G Suite, and Google Classrooom will be used daily for posting resources, rubrics, and assignments.  Aeries will be used to input grades and communicate to parent/guardians via ParentSquare.
 
 
 ### Hardware Specifications
@@ -51,6 +51,9 @@ HDMI connection for Display from Teacher Laptop to Projector Screen
 
 
 ### Application
+
+In-class activities include a Daily Do Now, which is a brief, introductory problem set used to activate prior knowledge.  These take no more than 10 minutes, including discussing the answers as a class.  Students will then receive direct instruction related to the learning goal of the lesson, and this should not take more than 15 minutes.  The purpose of the direct instruction is to model new concepts, review old concepts, and explain directions for the daily assignment.  The remainder of the period will be used to complete the daily assignment.  If students do not finish, then it is expected to be completed for homework.  Resources, such as slideshows, models, past lectures, tutorials, and translations will be posted via Google Classroom, and it is encouraged that students use them during the class period.  These resources will support students via the tenents of Dual-Learning Theory.  This daily strategy allows for formative assessments while students complete activities.  It also complements Cognitive Load Theory, as direct instructional time is kept to a minimum so that students can focus on germane load, and the instructor can remove extraneous load.  The Cohe
+
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
