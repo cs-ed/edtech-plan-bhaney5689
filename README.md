@@ -11,18 +11,14 @@ Scientific Programming, an elective course for grades 10-12, allows students to 
 
 ### Situation
 
-Scientific Programming will align with Computer Science Standards for Public Schools.  This elective course will be for a class size of 25.  Student demographics of note include 75% latino and 50% economically disadvantaged.  Scaffolds and differentiation will be present for students with learning disabilities and/or EL qualifications.  This Title I high school is in a rural town, meaning technical accessibility issues may be present; however, all students will have access to a Chromebook.
+Scientific Programming will align with Computer Science Standards for Public Schools.  This elective course will be for a class size of 25, and for grades 10-12.  Student demographics of note include 75% latino and 50% economically disadvantaged.  Scaffolds and differentiation will be present for students with learning disabilities and/or EL qualifications.  This Title I high school is in a rural town, meaning technical accessibility issues may be present; however, all students will have access to a Chromebook.  
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
 
 ## Plan
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
+For the operating system, we will use Microsoft Windows, as the school currently has this software available for students.  The learning management system (LMS) will be Canvas, as this is LMS used currently in other classes at the high school.  The web browser will be Google Chrome.  For antivirus software, Chromebooks will have Windows Defender installed.  Microsoft Office 365, which is already on the Chromebooks, will be used for the document processing software.  Archive utilities software will be WinZip.  Visual Studio Code will be installed on all computers.  Microsoft Developer will be the developer software.  Online/web services used will include scratch.mit.edu, github.com, and w3schools.com.  Windows has a built-in SSH through Windows Terminal.
 installed as well as any online services.
 
 ### Hardware Specifications
